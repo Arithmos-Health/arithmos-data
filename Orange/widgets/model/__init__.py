@@ -4,7 +4,7 @@ NAME = 'Model'
 
 DESCRIPTION = 'Prediction.'
 
-BACKGROUND = '#FAC1D9'
+BACKGROUND = '#0d4d6d'
 
 ICON = 'icons/Category-Model.svg'
 
