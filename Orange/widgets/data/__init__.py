@@ -12,6 +12,6 @@ loading, importing, saving, preprocessing, selection, etc.
 
 ICON = "icons/Category-Data.svg"
 
-BACKGROUND = "#FFD39F"
+BACKGROUND = "#74dbdf"
 
 PRIORITY = 1
