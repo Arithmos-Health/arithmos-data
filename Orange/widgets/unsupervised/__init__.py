@@ -13,7 +13,7 @@ NAME = "Unsupervised"
 
 DESCRIPTION = "Unsupervised learning."
 
-BACKGROUND = "#CAE1EF"
+BACKGROUND = "#2dc9cd"
 
 ICON = "icons/Category-Unsupervised.svg"
 
