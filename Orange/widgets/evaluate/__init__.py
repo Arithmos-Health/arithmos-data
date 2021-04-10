@@ -6,7 +6,7 @@ NAME = "Evaluate"
 
 DESCRIPTION = "Evaluate classification/regression performance."
 
-BACKGROUND = "#C3F3F3"
+BACKGROUND = "#a6e9eb"
 
 ICON = "icons/Category-Evaluate.svg"
 
